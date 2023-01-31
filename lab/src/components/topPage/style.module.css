@@ -1,0 +1,39 @@
+.logo {
+  width: 50px;
+  margin: 15px 40px;
+}
+.firstPart {
+  width: auto;
+  height: 700px;
+  background-color: rgb(38, 38, 43);
+}
+.topimages {
+  display: flex;
+  justify-content: space-between;
+}
+h1 {
+  color: white;
+  font-size: 70px;
+  width: 500px;
+  margin-left: 40px;
+  margin-top: 100px;
+}
+h2 {
+  color: white;
+  font-size: 20px;
+  font-weight: 10;
+  width: 300px;
+  margin-left: 40px;
+  margin-top: -40px;
+  text-align: left;
+}
+.btnawesome {
+  margin-left: 30px;
+  margin-top: 70px;
+  background-color: white;
+  color: rgb(38, 38, 43);
+  font-size: 30px;
+  padding: 15px;
+  font-weight: bold;
+  border-radius: 5px;
+}

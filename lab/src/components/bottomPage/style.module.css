@@ -1,0 +1,21 @@
+.image {
+  width: 120px;
+  margin-left: 27px;
+  margin-top: 150px;
+}
+.features {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.featureTitle {
+  width: 300px;
+  text-align: left;
+  margin-top: 10px;
+  font-size: 30px;
+  color: black;
+}
+.featureText {
+  width: 130px;
+  margin-left: 40px;
+}
